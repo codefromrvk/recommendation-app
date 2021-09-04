@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  max-width: 80%;
+  margin: auto;
+}
+.border {
+  border-radius: 0.5rem;
+}
+li:hover {
+  opacity: 0.8;
+}
